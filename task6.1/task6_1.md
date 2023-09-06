@@ -10,3 +10,4 @@
 - Low pass filter with cut-off frequency ranging from 260-5 Hz based on how much delay you want
 
 ![different freq from data sheet](p1.png)
+
